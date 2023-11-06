@@ -32,6 +32,6 @@ $RECYCLE.BIN/
 .devcontainer/
 .vscode/
 build/
-components/
+# components/
 managed_components/
 partition_table/
